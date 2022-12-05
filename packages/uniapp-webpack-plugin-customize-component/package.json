@@ -1,0 +1,14 @@
+{
+  "name": "@luwp/uniapp-webpack-plugin-customize-component",
+  "version": "1.0.0",
+  "description": "@luwp/uniapp-webpack-plugin-customize-component",
+  "keywords": ["uniapp", "webpack", "customizeComponent", "plugins"],
+  "author": "",
+  "license": "MIT",
+  "main": "dist/index.umd.js",
+  "module": "dist/index.esm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lisheri/vite-plugin-uniapp-customize-component.git"
+  }
+}

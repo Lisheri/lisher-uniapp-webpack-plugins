@@ -1,0 +1,20 @@
+{
+  "name": "@luwp/lisherPlugins",
+  "version": "1.0.0",
+  "description": "uniapp用webpack插件集",
+  "keywords": [
+    "uniapp",
+    "webpackPlugins",
+    "webpack",
+    "customizeComponent"
+  ],
+  "author": "lisher",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "dependencies": {
+    "@luwp/uniapp-webpack-plugin-customize-component": "workspace:^1.0.0"
+  }
+}
